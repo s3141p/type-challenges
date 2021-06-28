@@ -1,1 +1,3 @@
-type GetRequired<T> = any
+type GetRequired<T> = {
+  [P in RequiredKeys<T>]: T[P];
+};

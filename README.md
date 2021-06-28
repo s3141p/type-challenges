@@ -4,44 +4,51 @@
 
 ## Solved
 
-| Level   | Number | Name             | Date       |
-| ------- | ------ | ---------------- | ---------- |
-| warm-up | 13     | Hello world      | 27.06.2021 |
-| easy    | 4      | Pick             | 27.06.2021 |
-| easy    | 7      | Readonly         | 27.06.2021 |
-| easy    | 11     | Tuple to Object  | 27.06.2021 |
-| easy    | 14     | First of Array   | 27.06.2021 |
-| easy    | 18     | Lenght of Typle  | 27.06.2021 |
-| easy    | 43     | Exclude          | 27.06.2021 |
-| easy    | 189    | Awaited          | 27.06.2021 |
-| easy    | 268    | If               | 27.06.2021 |
-| easy    | 533    | Concat           | 27.06.2021 |
-| easy    | 898    | Includes         | 27.06.2021 |
-| medium  | 2      | Get Return Type  | 27.06.2021 |
-| medium  | 3      | Omit             | 27.06.2021 |
-| medium  | 8      | Readonly         | 27.06.2021 |
-| medium  | 9      | Deep Readonly    | 27.06.2021 |
-| medium  | 10     | Tuple to Union   | 27.06.2021 |
-| medium  | 12     | Chainable        | 27.06.2021 |
-| medium  | 15     | Last of Array    | 27.06.2021 |
-| medium  | 16     | Pop              | 27.06.2021 |
-| medium  | 20     | Promise.all      | 27.06.2021 |
-| medium  | 62     | Type Lookup      | 27.06.2021 |
-| medium  | 106    | Trim Left        | 27.06.2021 |
-| medium  | 108    | Trim             | 27.06.2021 |
-| medium  | 110    | Capitalize       | 27.06.2021 |
-| medium  | 116    | Replace          | 27.06.2021 |
-| medium  | 191    | Append Argument  | 27.06.2021 |
-| medium  | 296    | Permutation      | 27.06.2021 |
-| medium  | 459    | Flatten          | 28.06.2021 |
-| medium  | 527    | Append to object | 28.06.2021 |
-| medium  | 529    | Absolute         | 28.06.2021 |
-| medium  | 531    | String to Union  | 28.06.2021 |
-| medium  | 599    | Merge            | 28.06.2021 |
-| medium  | 645    | Diff             | 28.06.2021 |
-| medium  | 949    | AnyOf            | 28.06.2021 |
-| medium  | 1042   | IsNever          | 28.06.2021 |
-| medium  | 1097   | IsUnion          | 29.06.2021 |
+| Level   | Number | Name                  | Date       |
+| ------- | ------ | --------------------- | ---------- |
+| warm-up | 13     | Hello world           | 27.06.2021 |
+| easy    | 4      | Pick                  | 27.06.2021 |
+| easy    | 7      | Readonly              | 27.06.2021 |
+| easy    | 11     | Tuple to Object       | 27.06.2021 |
+| easy    | 14     | First of Array        | 27.06.2021 |
+| easy    | 18     | Lenght of Typle       | 27.06.2021 |
+| easy    | 43     | Exclude               | 27.06.2021 |
+| easy    | 189    | Awaited               | 27.06.2021 |
+| easy    | 268    | If                    | 27.06.2021 |
+| easy    | 533    | Concat                | 27.06.2021 |
+| easy    | 898    | Includes              | 27.06.2021 |
+| medium  | 2      | Get Return Type       | 27.06.2021 |
+| medium  | 3      | Omit                  | 27.06.2021 |
+| medium  | 8      | Readonly              | 27.06.2021 |
+| medium  | 9      | Deep Readonly         | 27.06.2021 |
+| medium  | 10     | Tuple to Union        | 27.06.2021 |
+| medium  | 12     | Chainable             | 27.06.2021 |
+| medium  | 15     | Last of Array         | 27.06.2021 |
+| medium  | 16     | Pop                   | 27.06.2021 |
+| medium  | 20     | Promise.all           | 27.06.2021 |
+| medium  | 62     | Type Lookup           | 27.06.2021 |
+| medium  | 106    | Trim Left             | 27.06.2021 |
+| medium  | 108    | Trim                  | 27.06.2021 |
+| medium  | 110    | Capitalize            | 27.06.2021 |
+| medium  | 116    | Replace               | 27.06.2021 |
+| medium  | 191    | Append Argument       | 27.06.2021 |
+| medium  | 296    | Permutation           | 27.06.2021 |
+| medium  | 459    | Flatten               | 28.06.2021 |
+| medium  | 527    | Append to object      | 28.06.2021 |
+| medium  | 529    | Absolute              | 28.06.2021 |
+| medium  | 531    | String to Union       | 28.06.2021 |
+| medium  | 599    | Merge                 | 28.06.2021 |
+| medium  | 645    | Diff                  | 28.06.2021 |
+| medium  | 949    | AnyOf                 | 28.06.2021 |
+| medium  | 1042   | IsNever               | 28.06.2021 |
+| medium  | 1097   | IsUnion               | 29.06.2021 |
+| medium  | 1130   | ReplaceKeys           | 29.06.2021 |
+| hard    | 6      | Simple Vue            | 29.06.2021 |
+| hard    | 17     | Currying              | 29.06.2021 |
+| hard    | 55     | Union to Intersection | 29.06.2021 |
+| hard    | 89     | Required Keys         | 29.06.2021 |
+| hard    | 57     | Get Required          | 29.06.2021 |
+| hard    | 90     | Optional Keys         | 29.06.2021 |
 
 ## Challenges
 
