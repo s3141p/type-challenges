@@ -49,6 +49,9 @@
 | hard    | 89     | Required Keys         | 29.06.2021 |
 | hard    | 57     | Get Required          | 29.06.2021 |
 | hard    | 90     | Optional Keys         | 29.06.2021 |
+| hard    | 59     | Get Optional          | 30.06.2021 |
+| hard    | 147    | C-printf Parser       | 30.06.2021 |
+| hard    | 213    | Vue Basic Props       | 30.06.2021 |
 
 ## Challenges
 
